@@ -1,0 +1,32 @@
+{
+  "name": "book-store",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "emotion": "^9.2.8",
+    "immutable": "^3.8.2",
+    "normalize": "^0.3.1",
+    "normalize.css": "^8.0.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-emotion": "^9.2.8",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.5",
+    "redux": "^4.0.0",
+    "redux-form": "^7.4.2",
+    "redux-immutable": "^4.0.0",
+    "redux-saga": "^0.16.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-alice-carousel": "^1.10.4",
+    "redux-devtools-extension": "^2.13.5"
+  }
+}
